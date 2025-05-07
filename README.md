@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jesuz-001
-- 👀 I’m interested in soccer, videogames, and be funny
-- 🌱 I’m currently learning HTML and blender ...
-- 💞️ I’m looking to collaborate on videogames ...
-- 📫 How to reach me here you can reach me: davidcalderon2701@gmail.com...
-- 😄 Pronouns:jesuzzz ...
-- ⚡ Fun fact: bomboclat ...
+- 👋 Hi, I’m Jesus David Calderon
+- 👀 I’m interested in do Videogames, Webs and Apps
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I’m looking to collaborate on videogames and Apps Web
+- 📫 How to reach me here you can reach me: davidcalderon2701@gmail.com
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: Im Black and i love do this work
 
 <!---
 Jesuz-001/Jesuz-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
